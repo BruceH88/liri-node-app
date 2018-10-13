@@ -1,57 +1,25 @@
 
 concert-this sasha berliner
 Venue Name: Jamaica Performing Arts Center
-    Venue Location: Jamaica, NY
-    Event Date: 11/03/2018
-    
-spotify-this-song waitin on a woman
-Artist: Brad Paisley
-  Song preview: https://p.scdn.co/mp3-preview/0a4fb374f22ad7b44ae9b66cf21b527ce2c40b33?cid=49f02545f3d24d8aa11edf976c40d175
-  Album: Time Well Wasted
-  Song Name: Waitin' On a Woman
-  
-movie-this galaxy quest
-Title: Galaxy Quest
-  IMDB Rating: 7.3/10
-  Rotten Tomatoes Rating: 90%
-  Release Year: 1999
-  County produced in: USA
-  Language: English
-  Plot: The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.
-  Actors: Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub
-  
-do-what-it-says 
-
-spotify-this-song I Want it That Way
-Artist: Backstreet Boys
-  Song Name: I Want It That Way
-  Song preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=49f02545f3d24d8aa11edf976c40d175
-  Album: The Hits--Chapter One
-  
-do-what-it-says testing.txt
-
-movie-this batman
-Release Year: 1989
-  Rotten Tomatoes Rating: 72%
-  IMDB Rating: 7.6/10
-  County produced in: USA, UK
-  Language: English, French, Spanish
-  Title: Batman
-  Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
-  Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
-  
-concert-this damion
-
-spotify-this-song waitin on a women
-
-spotify-this-song waitin on a women
-
-consert-this sasha berliner
-
-concert-this sasha berliner
-Venue Name: Jamaica Performing Arts Center
 Venue Location: Jamaica, NY
 Event Date: 11/03/2018
+
+concert-this 
+Venue Name: What Makes You Country Tour - XL Stadium Sized
+Venue Location: Vancouver, 
+Event Date: 10/13/2018
+Venue Name: Blue Cross Arena
+Venue Location: Rochester, NY
+Event Date: 10/25/2018
+Venue Name: Country Thunder
+Venue Location: Kissimmee, FL
+Event Date: 03/24/2019
+Venue Name: What Makes You Country Tour - XL Stadium Sized
+Venue Location: Detroit, MI
+Event Date: 10/26/2018
+Venue Name: Country Fest
+Venue Location: Cadott, WI
+Event Date: 06/27/2019
 
 spotify-this-song waitin on a woman
 Artist: Brad Paisley
@@ -59,37 +27,11 @@ Song Name: Waitin' On a Woman
 Song preview: https://p.scdn.co/mp3-preview/0a4fb374f22ad7b44ae9b66cf21b527ce2c40b33?cid=49f02545f3d24d8aa11edf976c40d175
 Album: Time Well Wasted
 
-movie-this galaxy quest
-Title: Galaxy Quest
-Release Year: 1999
-IMDB Rating: 7.3/10
-Rotten Tomatoes Rating: 90%
-County produced in: USA
-Language: English
-Plot: The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.
-Actors: Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub
-
-do-what-it-says 
-
-spotify-this-song I Want it That Way
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Song preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=49f02545f3d24d8aa11edf976c40d175
-Album: The Hits--Chapter One
-
-do-what-it-says testing.txt
-
-movie-this batman
-Title: Batman
-Release Year: 1989
-IMDB Rating: 7.6/10
-Rotten Tomatoes Rating: 72%
-County produced in: USA, UK
-Language: English, French, Spanish
-Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
-Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
-
-movie-this 
+spotify-this-song 
+Artist: Harry Styles
+Song Name: Sign of the Times
+Song preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=49f02545f3d24d8aa11edf976c40d175
+Album: Harry Styles
 
 movie-this star wars
 Title: Star Wars: Episode IV - A New Hope
@@ -101,40 +43,31 @@ Language: English
 Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
 Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
 
-concert-this beatles
+movie-this 
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 67%
+County produced in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
-concert-this luke bryan
-Venue Name: What Makes You Country Tour - XL Stadium Sized
-Venue Location: Vancouver, 
-Event Date: 10/13/2018
-Venue Name: Blue Cross Arena
-Venue Location: Rochester, NY
-Event Date: 10/25/2018
-Venue Name: What Makes You Country Tour - XL Stadium Sized
-Venue Location: Detroit, MI
-Event Date: 10/26/2018
-Venue Name: Country Thunder
-Venue Location: Kissimmee, FL
-Event Date: 03/24/2019
-Venue Name: Country Fest
-Venue Location: Cadott, WI
-Event Date: 06/27/2019
+do-what-it-says random.txt
 
-spotify-this-song waitin on a woman
-Artist: Brad Paisley
-Song Name: Waitin' On a Woman
-Song preview: https://p.scdn.co/mp3-preview/0a4fb374f22ad7b44ae9b66cf21b527ce2c40b33?cid=49f02545f3d24d8aa11edf976c40d175
-Album: Time Well Wasted
+spotify-this-song i want it that way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Song preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=49f02545f3d24d8aa11edf976c40d175
+Album: The Hits--Chapter One
 
-movie-this batman
-Title: Batman
-Release Year: 1989
-IMDB Rating: 7.6/10
-Rotten Tomatoes Rating: 72%
-County produced in: USA, UK
-Language: English, French, Spanish
-Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
-Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+do-what-it-says 
+
+spotify-this-song i want it that way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Song preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=49f02545f3d24d8aa11edf976c40d175
+Album: The Hits--Chapter One
 
 do-what-it-says testing.txt
 
