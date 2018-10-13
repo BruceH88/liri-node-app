@@ -11,8 +11,8 @@ const fs = require("fs");
 // define variables
 const spotify = new Spotify(keys.spotify);
 let omdbKey = keys.omdb.id;
-let command = process.argv[2];
-let argument = process.argv.slice(3).join(" ");
+let command = process.argv[2].toLowerCase();
+let argument = process.argv.slice(3).join(" ").toLowerCase();
 
 // define functions
 
@@ -68,6 +68,9 @@ Actors: ${movieInfo.Actors}
 
 
 function getConcertInfo(artist) {
+  if (artist === null || artist === "") {
+    artist = "Luke Bryan";
+  }
   let queryURL = `https://rest.bandsintown.com/artists/${artist}/events?app_id=codingbootcamp`;
   request(queryURL, function (error, response, body) {
     if (error) {
@@ -87,6 +90,9 @@ function getConcertInfo(artist) {
 };
 
 function runSpotify(song) {
+  if (song === null || song === "") {
+    song = "The Sign";
+  }
   spotify
     .search({ type: 'track', query: song })
     .then(function (response) {
@@ -99,6 +105,9 @@ function runSpotify(song) {
 };
 
 function getMovieInfo(movie) {
+  if (movie === null || movie === "") {
+    movie = "Mr. Nobody";
+  }
   let queryURL = `http://www.omdbapi.com/?apikey=${omdbKey}&t=${movie}`
   request(queryURL, function (error, response, body) {
     if (error) {
@@ -121,19 +130,19 @@ function getMovieInfo(movie) {
 
 function runFile(fileName) {
   if (fileName === null || fileName === "") {
-    fileName = "random.txt"
+    fileName = "random.txt";
   }
-  console.log(fileName);
+  // console.log(fileName);
 
   fs.readFile(fileName, "utf8", function (error, data) {
     // If the code experiences any errors it will log the error to the console.
     if (error) {
       return console.log(error);
     }
-    console.log(data);
+    // console.log(data);
     let newCommand = data.split(" ");
-    let nextCommand = newCommand[0];
-    let nextArgument = newCommand.slice(1).join(" ");
+    let nextCommand = newCommand[0].toLowerCase();
+    let nextArgument = newCommand.slice(1).join(" ").toLowerCase();
     runCommand(nextCommand, nextArgument);
   });
 };
