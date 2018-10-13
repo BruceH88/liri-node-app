@@ -1,0 +1,90 @@
+
+concert-this sasha berliner
+Venue Name: Jamaica Performing Arts Center
+    Venue Location: Jamaica, NY
+    Event Date: 11/03/2018
+    
+spotify-this-song waitin on a woman
+Artist: Brad Paisley
+  Song preview: https://p.scdn.co/mp3-preview/0a4fb374f22ad7b44ae9b66cf21b527ce2c40b33?cid=49f02545f3d24d8aa11edf976c40d175
+  Album: Time Well Wasted
+  Song Name: Waitin' On a Woman
+  
+movie-this galaxy quest
+Title: Galaxy Quest
+  IMDB Rating: 7.3/10
+  Rotten Tomatoes Rating: 90%
+  Release Year: 1999
+  County produced in: USA
+  Language: English
+  Plot: The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.
+  Actors: Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub
+  
+do-what-it-says 
+
+spotify-this-song I Want it That Way
+Artist: Backstreet Boys
+  Song Name: I Want It That Way
+  Song preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=49f02545f3d24d8aa11edf976c40d175
+  Album: The Hits--Chapter One
+  
+do-what-it-says testing.txt
+
+movie-this batman
+Release Year: 1989
+  Rotten Tomatoes Rating: 72%
+  IMDB Rating: 7.6/10
+  County produced in: USA, UK
+  Language: English, French, Spanish
+  Title: Batman
+  Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+  Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+  
+concert-this damion
+
+spotify-this-song waitin on a women
+
+spotify-this-song waitin on a women
+
+consert-this sasha berliner
+
+concert-this sasha berliner
+Venue Name: Jamaica Performing Arts Center
+Venue Location: Jamaica, NY
+Event Date: 11/03/2018
+
+spotify-this-song waitin on a woman
+Artist: Brad Paisley
+Song Name: Waitin' On a Woman
+Song preview: https://p.scdn.co/mp3-preview/0a4fb374f22ad7b44ae9b66cf21b527ce2c40b33?cid=49f02545f3d24d8aa11edf976c40d175
+Album: Time Well Wasted
+
+movie-this galaxy quest
+Title: Galaxy Quest
+Release Year: 1999
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 90%
+County produced in: USA
+Language: English
+Plot: The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.
+Actors: Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub
+
+do-what-it-says 
+
+spotify-this-song I Want it That Way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Song preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=49f02545f3d24d8aa11edf976c40d175
+Album: The Hits--Chapter One
+
+do-what-it-says testing.txt
+
+movie-this batman
+Title: Batman
+Release Year: 1989
+IMDB Rating: 7.6/10
+Rotten Tomatoes Rating: 72%
+County produced in: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
